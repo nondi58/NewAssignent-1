@@ -41,7 +41,70 @@
    .web-2-part{
     display: flex;
     text-align: center;
-    margin-left: 20%;
-    padding-top: 35px;
+    margin-left: 30%;
+    padding-top: 25px;
+    gap: 10%;
+    width: 946px;
+    height: 336px;
  
+   }
+   .web-text-2{
+      font-weight: bold;
+      font-size: 24px;
+   }
+   .web-2{
+      text-align: left;
+   }
+   .button1 {
+      background-color: white;
+      color: black;
+      border: 2px solid #060606cf; /* Green */
+      padding: 15px 32px;
+    }
+    .web-img{
+      width: 274px;
+      height: 240px;
+    }
+    .web-img1{
+      width: 240px;
+      height: 240px;
+    }
+    .inspiration{
+      text-align: center;
+      padding-top: 5px;
+    }
+   .video-link{
+      text-align: center;
+     
+   }
+   .cards{ 
+      justify-content: center;
+      padding: 32px;
+      margin: 10px;
+   }
+   .footer{
+      background-image: url("../assets/handshake.jpg");
+      width: auto;
+      height: 330px;
+      padding: 48px;
+     
+   }
+   .button4 {
+   background-color: #FFFFFF;
+      border: none;
+      color: black;
+      padding: 15px 32px;
+      text-align: center;
+    
+      display: inline-block;
+      font-size: 16px;
+      margin-top: 25px;
+   }
+   .last-part{
+     display: flex;
+     justify-content: space-between;
+     padding-top: 10px;
+   }
+   .last-imags{
+      gap: 37px;
    }
