@@ -38,3 +38,10 @@
     font-size: 32px;
 
    }
+   .web-2-part{
+    display: flex;
+    text-align: center;
+    margin-left: 20%;
+    padding-top: 35px;
+ 
+   }
